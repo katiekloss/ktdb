@@ -1,2 +1,2 @@
-# ktdb
+# ktsql
 A database-y thing
